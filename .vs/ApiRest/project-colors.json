@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6f9f904-3e35-4a29-b3e8-789ff8bf7c6c": {
+      "ProjectGuid": "f6f9f904-3e35-4a29-b3e8-789ff8bf7c6c",
+      "DisplayName": "ApiRest.WebApi",
+      "ColorIndex": 0
+    },
+    "175e0886-fc0f-4d5e-bfac-677eddfc4621": {
+      "ProjectGuid": "175e0886-fc0f-4d5e-bfac-677eddfc4621",
+      "DisplayName": "ApiRest.Aplicacion",
+      "ColorIndex": 1
+    },
+    "2d2378f8-ad6d-4846-8592-7400f8bd4de9": {
+      "ProjectGuid": "2d2378f8-ad6d-4846-8592-7400f8bd4de9",
+      "DisplayName": "ApiRest.Entidades",
+      "ColorIndex": 2
+    },
+    "8c524f47-1517-404a-9083-a93012add70a": {
+      "ProjectGuid": "8c524f47-1517-404a-9083-a93012add70a",
+      "DisplayName": "ApiRest.Repositorio",
+      "ColorIndex": 3
+    },
+    "fa81732d-a5b2-49fd-acb2-82a46dd0db4c": {
+      "ProjectGuid": "fa81732d-a5b2-49fd-acb2-82a46dd0db4c",
+      "DisplayName": "ApiRest.AccesoDatos",
+      "ColorIndex": 4
+    },
+    "dd6b2e53-4ff3-40e4-8488-7961c92dbcf3": {
+      "ProjectGuid": "dd6b2e53-4ff3-40e4-8488-7961c92dbcf3",
+      "DisplayName": "ApiRest.Servicios",
+      "ColorIndex": 5
+    },
+    "af9d8e76-891c-4758-bb83-6a58f9408660": {
+      "ProjectGuid": "af9d8e76-891c-4758-bb83-6a58f9408660",
+      "DisplayName": "ApiRest.Abstracciones",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

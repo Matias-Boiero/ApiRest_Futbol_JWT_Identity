@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NduNH9fIOR2LnWUjHtWQHORsUpSkWoVYD9wfVCAZrdU=",
+  "Source": "ApiRest.WebApi",
+  "BasePath": "_content/ApiRest.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

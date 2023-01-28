@@ -1,0 +1,15 @@
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\bin\Debug\net6.0\ApiRest.Entidades.deps.json
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\bin\Debug\net6.0\ApiRest.Entidades.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\bin\Debug\net6.0\ref\ApiRest.Entidades.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\bin\Debug\net6.0\ApiRest.Entidades.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.csproj.AssemblyReference.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.AssemblyInfoInputs.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.AssemblyInfo.cs
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ref\ApiRest.Entidades.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\bin\Debug\net6.0\ApiRest.Abstracciones.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\bin\Debug\net6.0\ApiRest.Abstracciones.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Entidades\obj\Debug\net6.0\ApiRest.Entidades.csproj.CopyComplete

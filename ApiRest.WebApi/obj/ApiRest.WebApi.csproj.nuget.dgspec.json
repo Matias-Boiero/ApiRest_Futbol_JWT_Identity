@@ -1,0 +1,498 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.WebApi\\ApiRest.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj",
+        "projectName": "ApiRest.Abstracciones",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.AccesoDatos\\ApiRest.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.AccesoDatos\\ApiRest.AccesoDatos.csproj",
+        "projectName": "ApiRest.AccesoDatos",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.AccesoDatos\\ApiRest.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Aplicacion\\ApiRest.Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Aplicacion\\ApiRest.Aplicacion.csproj",
+        "projectName": "ApiRest.Aplicacion",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Aplicacion\\ApiRest.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Repositorio\\ApiRest.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Repositorio\\ApiRest.Repositorio.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj",
+        "projectName": "ApiRest.Entidades",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Repositorio\\ApiRest.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Repositorio\\ApiRest.Repositorio.csproj",
+        "projectName": "ApiRest.Repositorio",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Repositorio\\ApiRest.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.AccesoDatos\\ApiRest.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.AccesoDatos\\ApiRest.AccesoDatos.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj",
+        "projectName": "ApiRest.Servicios",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.WebApi\\ApiRest.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.WebApi\\ApiRest.WebApi.csproj",
+        "projectName": "ApiRest.WebApi",
+        "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.WebApi\\ApiRest.WebApi.csproj",
+        "packagesPath": "C:\\Users\\maty_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maty_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Aplicacion\\ApiRest.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Aplicacion\\ApiRest.Aplicacion.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Entidades\\ApiRest.Entidades.csproj"
+              },
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Servicios\\ApiRest.Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

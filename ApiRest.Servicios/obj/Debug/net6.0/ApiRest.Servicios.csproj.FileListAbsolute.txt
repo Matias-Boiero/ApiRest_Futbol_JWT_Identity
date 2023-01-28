@@ -1,0 +1,12 @@
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\bin\Debug\net6.0\ApiRest.Servicios.deps.json
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\bin\Debug\net6.0\ApiRest.Servicios.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\bin\Debug\net6.0\ref\ApiRest.Servicios.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\bin\Debug\net6.0\ApiRest.Servicios.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.csproj.AssemblyReference.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.AssemblyInfoInputs.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.AssemblyInfo.cs
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ref\ApiRest.Servicios.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.pdb

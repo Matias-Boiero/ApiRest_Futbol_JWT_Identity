@@ -1,0 +1,12 @@
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\bin\Debug\net6.0\ApiRest.Abstracciones.deps.json
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\bin\Debug\net6.0\ApiRest.Abstracciones.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\bin\Debug\net6.0\ref\ApiRest.Abstracciones.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\bin\Debug\net6.0\ApiRest.Abstracciones.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.csproj.AssemblyReference.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.AssemblyInfoInputs.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.AssemblyInfo.cs
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ref\ApiRest.Abstracciones.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Abstracciones\obj\Debug\net6.0\ApiRest.Abstracciones.pdb
