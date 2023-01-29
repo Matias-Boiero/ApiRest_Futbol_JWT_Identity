@@ -114,6 +114,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.13, )"
@@ -379,7 +383,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj": {
+                "projectPath": "C:\\Users\\maty_\\source\\repos\\ApiRest\\ApiRest.Abstracciones\\ApiRest.Abstracciones.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -391,6 +399,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.26.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

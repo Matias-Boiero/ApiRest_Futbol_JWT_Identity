@@ -10,3 +10,6 @@ C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.S
 C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.dll
 C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ref\ApiRest.Servicios.dll
 C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\bin\Debug\net6.0\ApiRest.Abstracciones.dll
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\bin\Debug\net6.0\ApiRest.Abstracciones.pdb
+C:\Users\maty_\source\repos\ApiRest\ApiRest.Servicios\obj\Debug\net6.0\ApiRest.Servicios.csproj.CopyComplete
